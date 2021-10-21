@@ -4,8 +4,8 @@
 - cf login -a api.cf.foo.com -u myEmail
 
 ## View events
-- cf events skyport-graphql
-- cf logs skyport —recent
+- cf events myApp
+- cf logs myApp --recent
 
 ## Target org and space
 - cf target -o myOrg
@@ -16,7 +16,7 @@
 - echo $GIT_COMMIT_HASH
 
 ## Changing Variables
-- cf env pages-apps-preprod
+- cf env myApp
 - cf set-env myApp NAME VALUE
 - cf reloadenv
 
