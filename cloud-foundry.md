@@ -22,6 +22,7 @@
 
 ## Access
 - cf set-space-role email org space role 
+- Or see [cf-roles.sh](./cf-roles.sh) to bulk add users
 
 Roles are:
 - SpaceDeveloper
