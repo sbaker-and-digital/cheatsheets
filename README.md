@@ -1,4 +1,4 @@
-# cheatsheets
+# Cheatsheets
 
 Cheatsheets and common snippets for client work
 
