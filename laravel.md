@@ -1,11 +1,12 @@
 # Laravel Quick Start
 
-## Installtion
+## Installation
 Add the following to zshrc config (depending on PHP version)
 ```
 export PATH="/usr/local/opt/php@7.4/bin:$PATH"
 export PATH="/usr/local/opt/php@7.4/sbin:$PATH"
 ```
+Follow the Laravel docs [here](https://laravel.com/docs/8.x#installation-via-composer)
 
 ## Running 
 ```
