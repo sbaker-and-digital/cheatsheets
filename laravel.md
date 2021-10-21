@@ -29,3 +29,7 @@ Use the following for dumping objects to the browser:
 ```
 dd($whatever);
 ```
+
+
+## Clearing local sessions
+`rm -f storage/framework/sessions/*`
