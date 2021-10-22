@@ -2,6 +2,9 @@
 
 ## jq (Query JSON)
 
+See the manual for a full list of features:
+https://stedolan.github.io/jq/manual/#Basicfilters
+
 ### Querying with JQ 
 Use string interpolation on an array to display `field1: field2`
 
